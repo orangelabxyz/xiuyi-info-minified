@@ -14,10 +14,6 @@
 *.sln
 *.sw?
 
-# build
-build
-stargate
-
 # test
 test
 docstest
