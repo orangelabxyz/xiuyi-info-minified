@@ -3,7 +3,7 @@
 Step 1. Clone repository
 
 ```
-git clone https://github.com/tornadocash/ui-minified.git
+git clone https://github.com/orangelabxyz/xiuyi-info-minified.git
 cd ui-minified
 ```
 
